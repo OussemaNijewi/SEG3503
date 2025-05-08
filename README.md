@@ -1,2 +1,4 @@
 # SEG3503
-Software quality assurance class
+Student: Oussema Nijewi
+ID: 300190313
+Class: Software quality assurance
